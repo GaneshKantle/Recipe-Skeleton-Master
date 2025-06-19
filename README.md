@@ -1,151 +1,168 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=RECIPE-SKELETON-MASTER" alt="Recipe-Skeleton-Master" />
-  
-  <div style="margin: 20px 0;">
-    <img src="https://img.shields.io/github/stars/GaneshKantle/Recipe-Skeleton-Master?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub stars"/>
-    <img src="https://img.shields.io/github/forks/GaneshKantle/Recipe-Skeleton-Master?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub forks"/>
-    <img src="https://img.shields.io/github/issues/GaneshKantle/Recipe-Skeleton-Master?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub issues"/>
-    <img src="https://img.shields.io/github/license/GaneshKantle/Recipe-Skeleton-Master?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub license"/>
-  </div>
-  
-  <p style="font-size: 18px; color: #666; font-weight: 500; margin: 20px 0;">
-    A responsive React-based recipe application that allows users to browse, search, and explore a curated collection of dishes with a restaurant-style interface.
-  </p>
-</div>
+```markdown
+# <p align="center">🍴 Recipe-Skeleton-Master 🍴</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=47b6a3&lines=Browse+Curated+Dishes;Search+With+Ease;Explore+Like+a+Chef" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-# 🚀 Recipe-Skeleton-Master
+## 🎯 Project Overview
 
-<div align="center">
-  
-  **Created by [GaneshKantle](https://github.com/GaneshKantle)**
-  
-  🗓️ **Created:** 19/06/2025 | 🔄 **Last Updated:** 19/06/2025
-  
-</div>
+Recipe-Skeleton-Master is a responsive React-based application designed to provide users with an immersive and intuitive recipe-browsing experience. With a restaurant-style interface, this application allows users to browse, search, and explore a curated collection of dishes effortlessly. Whether you're looking for a quick snack or planning a gourmet meal, Recipe-Skeleton-Master has you covered.
 
-## 📖 About
+### Key Value Propositions
+- 🌟 **Curated Collection:** Only the best recipes selected by experts.
+- 🔍 **Search Functionality:** Find recipes quickly with advanced search capabilities.
+- 📱 **Responsive Design:** Enjoy a seamless experience on any device.
 
-A responsive React-based recipe application that allows users to browse, search, and explore a curated collection of dishes with a restaurant-style interface.
+### Live Demo
+[Check out the live demo here](#) (Link not currently available)
 
+## ✨ Key Features
 
-## 📊 Repository Statistics
+- 🍴 **Curated Recipes:** Access a handpicked collection of top recipes.
+- 🔍 **Advanced Search:** Find exactly what you're looking for with powerful search options.
+- 📸 **High-Quality Images:** Enjoy beautiful visuals of each dish.
+- 📋 **Step-by-Step Instructions:** Clear and concise cooking instructions.
+- 🎨 **Restaurant-Style Interface:** An elegant and professional design.
 
-<div align="center">
-  <table style="border-collapse: collapse; margin: 25px 0; font-size: 0.9em; min-width: 400px; border-radius: 8px; overflow: hidden; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-    <thead>
-      <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: left; font-weight: bold;">
-        <th style="padding: 12px 15px;">Metric</th>
-        <th style="padding: 12px 15px;">Count</th>
-        <th style="padding: 12px 15px;">Badge</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;">⭐ Stars</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/stars/GaneshKantle/Recipe-Skeleton-Master?style=social" alt="GitHub stars"/></td>
-      </tr>
-      <tr style="background-color: #f3f3f3; border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;">🍴 Forks</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/forks/GaneshKantle/Recipe-Skeleton-Master?style=social" alt="GitHub forks"/></td>
-      </tr>
-      <tr style="border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;">👁️ Watchers</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/watchers/GaneshKantle/Recipe-Skeleton-Master?style=social" alt="GitHub watchers"/></td>
-      </tr>
-      <tr style="background-color: #f3f3f3;">
-        <td style="padding: 12px 15px;">🐛 Issues</td>
-        <td style="padding: 12px 15px; font-weight: bold;">0</td>
-        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/issues/GaneshKantle/Recipe-Skeleton-Master?style=social" alt="GitHub issues"/></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+## 🚀 Quick Start
 
+### Prerequisites
+- Node.js (v14 or later)
+- npm (v6 or later)
 
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/GaneshKantle/Recipe-Skeleton-Master.git
+   ```
+
+2. Navigate to the project directory:
+   ```sh
+   cd Recipe-Skeleton-Master
+   ```
+
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+
+4. Start the development server:
+   ```sh
+   npm start
+   ```
+
+## 📊 Statistics & Metrics
+
+| Metric                 | Value                       |
+|------------------------|-----------------------------|
+| **Language**           | ![JavaScript](https://img.shields.io/badge/JavaScript-88.9%25-brightgreen) ![HTML](https://img.shields.io/badge/HTML-7.2%25-brightgreen) ![CSS](https://img.shields.io/badge/CSS-3.9%25-brightgreen) |
+| **Stars**              | ![GitHub Stars](https://img.shields.io/github/stars/GaneshKantle/Recipe-Skeleton-Master) |
+| **Forks**              | ![GitHub Forks](https://img.shields.io/github/forks/GaneshKantle/Recipe-Skeleton-Master) |
+| **Contributors**       | ![GitHub Contributors](https://img.shields.io/github/contributors/GaneshKantle/Recipe-Skeleton-Master)  |
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-88.9%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-7.2%25-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3.9%25-1572B6?style=for-the-badge&logo=css&logoColor=white)
-</div>
+- **Frontend:**
+  - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+- **Backend:**
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 🎯 Getting Started
+### Architecture Overview
 
-### Prerequisites
+- **Frontend:** Developed using React for a dynamic and responsive user interface.
+- **Backend:** Powered by Node.js for efficient server-side operations.
 
-Make sure you have the following installed:
+### Dependencies
 
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) `v16+`
-- ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) `v8+`
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- Other dependencies listed in `package.json`
 
-### 🔧 Installation
+## 📖 Detailed Documentation
 
-```bash
-# Clone the repository
-git clone https://github.com/GaneshKantle/Recipe-Skeleton-Master.git
+### Installation Guide
 
-# Navigate to project directory
-cd Recipe-Skeleton-Master
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Start the development server using `npm start`.
 
-# Install dependencies
-npm install
+### Configuration Options
 
-# Start the development server
-npm run dev
-```
+- Configure environment variables in `.env`.
 
-## 🌟 Features
+### API Documentation
 
-- ✨ Modern and responsive design
-- 🚀 High performance
-- 📱 Mobile-friendly
-- 🔒 Secure by default
-- 🎨 Customizable themes
+- API endpoints and their descriptions can be found [here](#) (Link not currently available).
 
-## 📚 Usage
+### Usage Examples
 
-Add your usage examples here:
+```js
+import React from 'react';
+import RecipeList from './components/RecipeList';
 
-```javascript
-// Example code snippet
-const example = "Hello, World!";
-console.log(example);
+function App() {
+  return (
+    <div className="App">
+      <RecipeList />
+    </div>
+  );
+}
+
+export default App;
 ```
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
+We welcome contributions from the community! Please follow these guidelines:
 
-1. 🍴 Fork the repository
-2. 🌿 Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. 💾 Commit your changes (`git commit -m 'Add amazing feature'`)
-4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
-5. 🔁 Open a Pull Request
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature-branch`.
+3. Make your changes and commit them: `git commit -m 'Add some feature'`.
+4. Push to the branch: `git push origin feature-branch`.
+5. Submit a pull request.
 
-## 📄 License
+### Development Setup
 
-This project is licensed under the **Not specified** License.
+1. Clone the repository.
+2. Install dependencies: `npm install`.
+3. Start the development server: `npm start`.
 
-## 🙏 Acknowledgments
+### Code of Conduct
 
-- Thanks to all contributors who helped make this project better
-- Special thanks to the open-source community
+Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
+## 📄 License & Credits
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Acknowledgments
+
+- Thanks to all contributors and supporters.
+
+### Contact Information
+
+For any questions or feedback, please contact [Ganesh Kantle](mailto:your-email@example.com).
 
 ---
 
-<div align="center">
-  <strong>⭐ Star this repository if you find it helpful!</strong>
-  
-  <br/>
-  
-  <a href="https://github.com/GaneshKantle/Recipe-Skeleton-Master">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github" alt="View on GitHub"/>
-  </a>
-</div>
+<p align="center">
+  🌟 This project is open-source and welcomes contributions from the community. Let's build something amazing together! 🌟
+</p>
+```
