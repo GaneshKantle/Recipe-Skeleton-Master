@@ -1,6 +1,6 @@
 import React from "react";
 import { Box, Grid, Typography } from "@mui/material";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -25,40 +25,19 @@ const Footer = () => {
           </Typography>
         </Grid>
 
-        {/* Column 2: Quick Links */}
-        <Grid
-          item
-          xs={12}
-          md={4}
-          sx={{ display: "flex", flexDirection: "column" }}
-        >
-          <Typography sx={{ fontWeight: "600" }} variant="h6" gutterBottom>
-            Quick Links
-          </Typography>
-          <Link to="/" style={{ textDecoration: "none", color: "grey" }}>
-            Home
-          </Link>
-          <Link to="/about" style={{ textDecoration: "none", color: "grey" }}>
-            About Us
-          </Link>
-          <Link to="/recipe" style={{ textDecoration: "none", color: "grey" }}>
-            Recipes
-          </Link>
-        </Grid>
-
         {/* Column 3: Contact */}
         <Grid item xs={12} md={4}>
           <Typography variant="h6" sx={{ fontWeight: "600" }} gutterBottom>
             Contact Us
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Email: support@recipebook.com
+            Email: ganeshkantle@gmail.com
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Phone: +1 234 567 890
+            Phone: +91 12345 67890
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Address: 123 Recipe St, Culinary City, Foodland
+            Address: Ujire, Karnataka, India
           </Typography>
         </Grid>
       </Grid>

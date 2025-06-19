@@ -14,7 +14,7 @@ export default function Error() {
         flexDirection: "column",
       }}
     >
-      <img style={{ width: "50%" }} src={error} />
+      <img style={{ width: "50%" }} src={error} alt={""} />
       <Typography
         variant="overline"
         sx={{ fontWeight: "600", fontSize: "30px", color: "grey" }}

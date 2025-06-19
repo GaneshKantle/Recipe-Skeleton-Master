@@ -28,7 +28,7 @@ export default function Recipe() {
         setLoading(false)
 
       })
-      .catch((err) => {
+      .catch((err) => { 
         console.log(err);
         setLoading(false)
 

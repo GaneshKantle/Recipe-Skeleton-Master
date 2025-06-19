@@ -3,8 +3,8 @@ import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
-import IconButton from "@mui/material/IconButton";
-import MenuIcon from "@mui/icons-material/Menu";
+// import IconButton from "@mui/material/IconButton";
+// import MenuIcon from "@mui/icons-material/Menu";
 import logo from "../Assets/Images/icon.png";
 import { Avatar } from "@mui/material";
 import { Link } from "react-router-dom";
@@ -27,7 +27,7 @@ export default function NavBar() {
             }}
           >
             <Avatar src={logo} variant="square" />
-            <Typography
+            <Typography 
               variant="h6"
               component="div"
               sx={{ flexGrow: 1, fontWeight: "900", fontSize: "26px" }}
@@ -64,7 +64,7 @@ export default function NavBar() {
                 variant="h6"
                 sx={{ fontWeight: "900", color: "black" }}
               >
-                Recipe
+                Recipes
               </Typography>
             </Link>
           </Box>
